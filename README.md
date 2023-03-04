@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thecodeinn" target="blank"><img src="https://img.shields.io/twitter/follow/thecodeinn?logo=twitter&style=for-the-badge" alt="thecodeinn" /></a> </p>
 
-- 🔭 I’m currently working on [expense-tracker app](http://expense-tracker-three-mauve.vercel.app/)
+- 🔭 I’m currently working on [expense-tracker app](https://github.com/The-CodeINN/expense-tracker-app.git)
 
 - 🌱 I’m currently learning **Backend development with Nodejs and Databases**
 
