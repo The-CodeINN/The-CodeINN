@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Richard Emijere</h1>
-<h3 align="center">Web developer from Lagos, Nigeria.</h3>
+<h3 align="center">Software Developer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/thecodeinn" target="blank"><img src="https://img.shields.io/twitter/follow/thecodeinn?logo=twitter&style=for-the-badge" alt="thecodeinn" /></a> </p>
 
-- 🔭 I’m currently working on [expense-tracker app](https://github.com/The-CodeINN/expense-tracker-app.git)
+- 🔭 I’m currently working on [AirBnB Clone](https://github.com/The-CodeINN/airbnb-clone)
 
 - 🌱 I’m currently learning **Backend development with Nodejs and Databases**
 
-- 💬 Ask me about **JavaScript, ReactJS, Petroleum Engineering**
+- 💬 Ask me about **JavaScript, ReactJS, NextJS, Petroleum Engineering**
 
 - 📫 How to reach me **emijere.richard@gmail.com**
 
