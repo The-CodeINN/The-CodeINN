@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thecodeinn" target="blank"><img src="https://img.shields.io/twitter/follow/thecodeinn?logo=twitter&style=for-the-badge" alt="thecodeinn" /></a> </p>
 
-- 🔭 I’m currently working on [AirBnB Clone](https://github.com/The-CodeINN/airbnb-clone)
+- 🔭 I’m currently working on [CogniNova](https://github.com/The-CodeINN/cogninova.git)
 
 - 🌱 I’m currently learning **Backend development with Nodejs and Databases**
 
