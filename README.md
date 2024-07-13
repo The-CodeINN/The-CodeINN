@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thecodeinn" target="blank"><img src="https://img.shields.io/twitter/follow/thecodeinn?logo=twitter&style=for-the-badge" alt="thecodeinn" /></a> </p>
 
-- 🔭 I’m currently working on [myportfolio](https://thecodeinn.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio](https://thecodeinn.vercel.app/)
   
 - 💬 Ask me about **.NET(C#), Typescript, React, Petroleum Engineering**
 
