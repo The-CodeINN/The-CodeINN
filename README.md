@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/thecodeinn" target="blank"><img src="https://img.shields.io/twitter/follow/thecodeinn?logo=twitter&style=for-the-badge" alt="thecodeinn" /></a> </p>
 
-- 🔭 I’m currently working on [CogniNova](https://github.com/The-CodeINN/cogninova.git)
+- 🔭 I’m currently working on [myportfolio](https://thecodeinn.vercel.app/)
   
-- 💬 Ask me about **JavaScript, ReactJS, NextJS, Petroleum Engineering**
+- 💬 Ask me about **.NET(C#), Typescript, React, Petroleum Engineering**
 
 - 📫 How to reach me **emijere.richard@gmail.com**
 
